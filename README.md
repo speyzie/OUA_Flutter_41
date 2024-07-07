@@ -7,11 +7,11 @@
 
  ## TAKIM ELEMANLARI
 
- *Ceren Çinarlı (Scrum Master-Developer)
- *Beyza Karakata (Product Owner-Developer)
- *Asya Güney (Developer)
- *Atacan Seç (Aktif Olmayan Üye)
- *Ahmet Metin (Aktif Olmayan Üye)
+ * Ceren Çinarlı (Scrum Master-Developer)
+ * Beyza Karakata (Product Owner-Developer)
+ * Asya Güney (Developer)
+ * Atacan Seç (Aktif Olmayan Üye)
+ * Ahmet Metin (Aktif Olmayan Üye)
 
  ## ÜRÜN İSMİ
 
