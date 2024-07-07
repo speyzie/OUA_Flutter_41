@@ -27,51 +27,51 @@
 
  ## ÜRÜN ÖZELLİKLERİ
 
- -Alışkanlık Takibi
+ * Alışkanlık Takibi
 
 Sağlıklı beslenme, egzersiz, meditasyon ve uyku düzeni gibi alışkanlıkları izleme.
 Günlük, haftalık ve aylık ilerleme raporları.
 
--Uyku Takibi
+* Uyku Takibi
 
 Uyku düzenini izleme ve analiz etme.
 Daha iyi uyku için kişisel öneriler.
 
--Motivasyon ve Hatırlatıcılar
+* Motivasyon ve Hatırlatıcılar
 
 Günlük motivasyon mesajları ve ipuçları.
-Alışkanlıkları sürdürmek için hatırlatıcılar.
+Alışkanlıkları sürdürmek için hatırlat ıcılar.
 
--Gelişmiş Analitik Araçlar
+* Gelişmiş Analitik Araçlar
 
 İlerleme grafikleri ve analizler.
 Hedeflere ulaşma oranları ve başarı hikayeleri.
 
 ## HEDEF KİTLE
 
-*Sağlık tutkunları
-*Dengeli beslenmeye önem verenler
-*Yoğun iş veya okul programı olanlar
-*Aktif bir yaşam tarzı benimsemek isteyenler
-*Yeni alışkanlıklar edinmek isteyenler
-*Uyku düzenini iyileştirmek isteyenler
+* Sağlık tutkunları
+* Dengeli beslenmeye önem verenler
+* Yoğun iş veya okul programı olanlar
+* Aktif bir yaşam tarzı benimsemek isteyenler
+* Yeni alışkanlıklar edinmek isteyenler
+* Uyku düzenini iyileştirmek isteyenler
 
 # SPRİNT 1
 
- **Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+ ** Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
- **Puan tamamlama mantığı: 3 Sprint var, ilk sprintin en az 100 puanla başlamasına karar verdik.
+ ** Puan tamamlama mantığı: 3 Sprint var, ilk sprintin en az 100 puanla başlamasına karar verdik.
 
-**Sprint board update: 
+** Sprint board update: 
 
 
-**Ürün Durumu: Henüz Kodlanmaya Başlanmadı.
+** Ürün Durumu: Henüz Kodlanmaya Başlanmadı.
 
-**Sprint Review: 
-*Görev dağılımları yapılmıştır.
-*Ürün için öncelikle Figma'da tasarım yapılmasına karar verilmiştir.
-*Aktif olmayan üyeler belirlenmiş ve tekrar ulaşmak için mesaj göderilmiştir.
-*KATILIMCILAR: Ceren Çinarlı, Beyza Karakaya, Asya Güney
+** Sprint Review: 
+* Görev dağılımları yapılmıştır.
+* Ürün için öncelikle Figma'da tasarım yapılmasına karar verilmiştir.
+* Aktif olmayan üyeler belirlenmiş ve tekrar ulaşmak için mesaj göderilmiştir.
+* KATILIMCILAR: Ceren Çinarlı, Beyza Karakaya, Asya Güney
 
 
 
