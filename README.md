@@ -64,6 +64,8 @@ Hedeflere ulaşma oranları ve başarı hikayeleri.
 
  **Sprint board update** : 
 
+ ![trello](https://github.com/speyzie/OUA_Flutter_41/assets/92116762/eaa707fa-2710-42d8-a235-105ee148dac2)
+
 
  **Ürün Durumu** : Henüz Kodlanmaya Başlanmadı.
 
