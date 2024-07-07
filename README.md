@@ -58,7 +58,7 @@ Hedeflere ulaşma oranları ve başarı hikayeleri.
 
 # SPRİNT 1
 
- ** Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+ **Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
  ** Puan tamamlama mantığı: 3 Sprint var, ilk sprintin en az 100 puanla başlamasına karar verdik.
 
