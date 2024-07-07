@@ -58,20 +58,20 @@ Hedeflere ulaşma oranları ve başarı hikayeleri.
 
 # SPRİNT 1
 
- ** Sprint içinde tamamlanması tahmin edilen puan ** : 100 Puan
+ **Sprint içinde tamamlanması tahmin edilen puan** : 100 Puan
 
- ** Puan tamamlama mantığı ** : 3 Sprint var, ilk sprintin en az 100 puanla başlamasına karar verdik.
+ **Puan tamamlama mantığı** : 3 Sprint var, ilk sprintin en az 100 puanla başlamasına karar verdik.
 
-** Sprint board update ** : 
+ **Sprint board update** : 
 
 
-** Ürün Durumu ** : Henüz Kodlanmaya Başlanmadı.
+ **Ürün Durumu** : Henüz Kodlanmaya Başlanmadı.
 
-** Sprint Review ** : 
-* Görev dağılımları yapılmıştır.
-* Ürün için öncelikle Figma'da tasarım yapılmasına karar verilmiştir.
-* Aktif olmayan üyeler belirlenmiş ve tekrar ulaşmak için mesaj göderilmiştir.
-* KATILIMCILAR: Ceren Çinarlı, Beyza Karakaya, Asya Güney
+ **Sprint Review** : 
+ * Görev dağılımları yapılmıştır.
+ * Ürün için öncelikle Figma'da tasarım yapılmasına karar verilmiştir.
+ * Aktif olmayan üyeler belirlenmiş ve tekrar ulaşmak için mesaj göderilmiştir.
+ * KATILIMCILAR: Ceren Çinarlı, Beyza Karakaya, Asya Güney
 
 
 
