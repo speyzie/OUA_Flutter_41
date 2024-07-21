@@ -78,8 +78,8 @@ Hedeflere ulaşma oranları ve başarı hikayeleri.
 # SPRİNT 2
 
  **Sprint Notları**
- *Temel sayfalar kodlandı.
- *Kodlanan sayfaların geliştirilmesi için planlama yapıldı.
+ * Temel sayfalar kodlandı.
+ * Kodlanan sayfaların geliştirilmesi için planlama yapıldı.
 
  **Sprint içinde tamamlanması tahmin edilen puan** : 100 Puan
  
@@ -91,7 +91,7 @@ Hedeflere ulaşma oranları ve başarı hikayeleri.
 
  **Daily Scrum**
 
- *Daily Scrum toplantıları Google Meet üzerinden yapılmıştır.
+ * Daily Scrum toplantıları Google Meet üzerinden yapılmıştır.
 
  **Sprint board update** 
 
