@@ -94,6 +94,7 @@ Hedeflere ulaşma oranları ve başarı hikayeleri.
  * Daily Scrum toplantıları Google Meet üzerinden yapılmıştır.
 
  **Sprint board update** 
+ ![Ekran görüntüsü 2024-07-21 203703](https://github.com/user-attachments/assets/fcbc0063-817c-4158-a18a-227e131c429e)
 
 
  **Ürün Durumu**
