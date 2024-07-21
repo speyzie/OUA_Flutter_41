@@ -98,6 +98,13 @@ Hedeflere ulaşma oranları ve başarı hikayeleri.
 
 
  **Ürün Durumu**
+ 
+![1](https://github.com/user-attachments/assets/427ba13c-a796-4bc7-95bb-e3445bc9cb29)
+![2](https://github.com/user-attachments/assets/8d77d7ce-6935-4502-a33f-4b10f2d30904)
+![3](https://github.com/user-attachments/assets/9b777c1e-0414-4cc3-8046-28bdaed88d25)
+![4](https://github.com/user-attachments/assets/60fdb066-77a1-4d6f-a800-deabd66cdfe3)
+![5](https://github.com/user-attachments/assets/243b45b5-51c3-4d54-95a6-624b6059d685)
+![6](https://github.com/user-attachments/assets/96173453-435a-436c-a91c-0f1f7875e284)
 
  **Sprint Review** : 
  * Temel sayfalar bitirilmiştir.
