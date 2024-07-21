@@ -114,8 +114,8 @@ Hedeflere ulaşma oranları ve başarı hikayeleri.
 
  **Sprint Retrospective**
 
- *Developer görev dağılımlarının sprint 3 için tekrar yapılmasına karar verilmiştir.
- *Uygulama geliştirme hızının artması gerektiğine karar verilmiştir.
+ * Developer görev dağılımlarının sprint 3 için tekrar yapılmasına karar verilmiştir.
+ * Uygulama geliştirme hızının artması gerektiğine karar verilmiştir.
 
  
  
