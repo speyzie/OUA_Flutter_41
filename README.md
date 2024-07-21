@@ -75,7 +75,42 @@ Hedeflere ulaşma oranları ve başarı hikayeleri.
  * Aktif olmayan üyeler belirlenmiş ve tekrar ulaşmak için mesaj göderilmiştir.
  * KATILIMCILAR: Ceren Çinarlı, Beyza Karakaya, Asya Güney
 
+# SPRİNT 2
 
+ **Sprint Notları**
+ *Temel sayfalar kodlandı.
+ *Kodlanan sayfaların geliştirilmesi için planlama yapıldı.
+
+ **Sprint içinde tamamlanması tahmin edilen puan** : 100 Puan
+ 
+ **Puan tamamlama mantığı** : 3 Sprint var, ikinci sprintin en az 100 puanla başlamasına karar verdik.
+
+ **Product Backlog URL**
+
+ [Flutter Takım 41 Trello Backlog Board](https://trello.com/b/M4PFWDNo/flutter-grup41)
+
+ **Daily Scrum**
+
+ *Daily Scrum toplantıları Google Meet üzerinden yapılmıştır.
+
+ **Sprint board update** 
+
+
+ **Ürün Durumu**
+
+ **Sprint Review** : 
+ * Temel sayfalar bitirilmiştir.
+ * Uygulama Kategorileri için araştırma yapılmaya başlanmıştır.
+ * Figma tasarımlar aktif bir şekilde kullanılmıştır.
+ * KATILIMCILAR: Ceren Çinarlı, Beyza Karakaya, Asya Güney
+
+ **Sprint Retrospective**
+
+ *Developer görev dağılımlarının sprint 3 için tekrar yapılmasına karar verilmiştir.
+ *Uygulama geliştirme hızının artması gerektiğine karar verilmiştir.
+
+ 
+ 
 
 
 
