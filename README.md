@@ -117,6 +117,54 @@ Hedeflere ulaşma oranları ve başarı hikayeleri.
  * Developer görev dağılımlarının sprint 3 için tekrar yapılmasına karar verilmiştir.
  * Uygulama geliştirme hızının artması gerektiğine karar verilmiştir.
 
+   # SPRİNT 3
+
+ **Sprint Notları**
+ * Tasarımlar detaylıca incelendi.
+ * Yazılan kodlar incelendi.
+ * Yazılan kodlar birleştirildi.
+ * Kodlardaki hatalar giderildi.
+ * Uygulamanın bir bütün olabilmesi için düzenlemeler yapıldı.
+ * Uygulamanın son hali çıkarıldı.
+
+ **Sprint içinde tamamlanması tahmin edilen puan** : 100 Puan
+ 
+ **Puan tamamlama mantığı** : Son sprintin en az 100 puanla sonlanmasına karar verdik.
+
+ **Product Backlog URL**
+
+ [Flutter Takım 41 Trello Backlog Board](https://trello.com/b/M4PFWDNo/flutter-grup41)
+
+ **Daily Scrum**
+
+ * Daily Scrum toplantıları Google Meet üzerinden yapılmıştır.
+
+ **Sprint board update** 
+ ![Ekran görüntüsü 2024-07-21 203703]()
+
+
+ **Ürün Durumu**
+ 
+![1](https://github.com/user-attachments/assets/427ba13c-a796-4bc7-95bb-e3445bc9cb29)
+![2](https://github.com/user-attachments/assets/8d77d7ce-6935-4502-a33f-4b10f2d30904)
+![3](https://github.com/user-attachments/assets/9b777c1e-0414-4cc3-8046-28bdaed88d25)
+![4](https://github.com/user-attachments/assets/60fdb066-77a1-4d6f-a800-deabd66cdfe3)
+![5](https://github.com/user-attachments/assets/243b45b5-51c3-4d54-95a6-624b6059d685)
+![6](https://github.com/user-attachments/assets/96173453-435a-436c-a91c-0f1f7875e284)
+
+ **Sprint Review** : 
+ * Tüm tasarımlar ekip tarafından detaylıca incelendi.
+ * Kodlar birbirleriyle uyumlu hale getirildi ve birleştirildi.
+ * Kod inceleme sürecinde tespit edilen hatalar düzeltildi.
+ * Kod kalitesinin artırılması için gerekli iyileştirmeler yapıldı.
+ * Uygulamanın nihai sürümü hazırlandı ve test edildi.
+ * KATILIMCILAR: Ceren Çinarlı, Beyza Karakaya
+
+ **Sprint Retrospective**
+
+ * Kodlar zamanında incelendi ve onaylandı. 
+ * Kod birleştirme süreci sorunsuz geçti ve hata düzeltmeleri hızlıca yapıldı.
+
  
  
 
