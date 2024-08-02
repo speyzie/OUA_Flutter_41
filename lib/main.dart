@@ -14,13 +14,13 @@ class DailyDoseApp extends StatelessWidget {
     return MaterialApp(
       title: 'Daily Dose',
       theme: ThemeData(
-        primaryColor: Colors.green,
+        primaryColor: Colors.blue,
         colorScheme: ColorScheme.fromSwatch().copyWith(
-          secondary: Colors.grey,
+          secondary: Colors.purpleAccent,
         ),
         scaffoldBackgroundColor: Colors.white,
         textTheme: TextTheme(
-          bodyText2: TextStyle(color: Colors.grey[800]),
+          bodyText2: TextStyle(color: Colors.black87),
         ),
       ),
       home: HomeScreen(),
@@ -37,37 +37,23 @@ class HomeScreen extends StatelessWidget {
           'Daily Dose',
           style: TextStyle(color: Colors.white),
         ),
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.blue,
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(
-              'Dengeli Bir Yaşam İçin',
-              style: TextStyle(
-                fontSize: 24,
-                fontWeight: FontWeight.bold,
-                color: Colors.green,
-              ),
-            ),
-            SizedBox(height: 8),
-            Text(
-              'Sağlıklı beslenme, egzersiz, meditasyon ve uyku düzeni gibi konularda kişiselleştirilmiş tavsiyeler ve hedefler belirleyin. Gelişiminizi izleyin, motivasyonunuzu artırın ve sağlıklı alışkanlıklarınızı kalıcı hale getirin. Sağlıklı bir yaşam için yanınızdayız!',
-              style: TextStyle(fontSize: 16),
-            ),
-            SizedBox(height: 20),
             Expanded(
               child: GridView.count(
                 crossAxisCount: 2,
                 crossAxisSpacing: 10,
                 mainAxisSpacing: 10,
                 children: [
-                  _buildCategoryCard(context, 'Alışkanlık Takibi', Icons.track_changes, Colors.green[100]!, HabitTrackingPage()),
-                  _buildCategoryCard(context, 'Uyku Takibi', Icons.bedtime, Colors.green[200]!, SleepTrackingPage()),
-                  _buildCategoryCard(context, 'Motivasyon ve Hatırlatıcılar', Icons.notifications, Colors.green[300]!, MotivationRemindersPage()),
-                  _buildCategoryCard(context, 'Odaklanma', Icons.center_focus_strong, Colors.green[400]!, FocusPage()),
+                  _buildCategoryCard(context, 'Alışkanlık Takibi', Icons.track_changes, Colors.blue[100]!, HabitTrackingPage()),
+                  _buildCategoryCard(context, 'Uyku Takibi', Icons.bedtime, Colors.cyan[200]!, SleepTrackingPage()),
+                  _buildCategoryCard(context, 'Motivasyon ve Hatırlatıcılar', Icons.notifications, Colors.purpleAccent[100]!, MotivationRemindersPage()),
+                  _buildCategoryCard(context, 'Odaklanma', Icons.center_focus_strong, Colors.lime[300]!, FocusPage()),
                 ],
               ),
             ),
@@ -80,6 +66,10 @@ class HomeScreen extends StatelessWidget {
   Widget _buildCategoryCard(BuildContext context, String title, IconData icon, Color color, Widget page) {
     return Card(
       color: color,
+      elevation: 4,
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(8),
+      ),
       child: InkWell(
         onTap: () {
           Navigator.push(
@@ -90,7 +80,7 @@ class HomeScreen extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Icon(icon, size: 48, color: Colors.green),
+            Icon(icon, size: 48, color: Colors.black54),
             SizedBox(height: 8),
             Text(
               title,
@@ -98,7 +88,7 @@ class HomeScreen extends StatelessWidget {
               style: TextStyle(
                 fontSize: 18,
                 fontWeight: FontWeight.bold,
-                color: Colors.green[800],
+                color: Colors.black87,
               ),
             ),
           ],
