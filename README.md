@@ -144,6 +144,14 @@ Hedeflere ulaşma oranları ve başarı hikayeleri.
 
 
  **Ürün Durumu**
+
+ 
+![1](https://github.com/user-attachments/assets/ad6a08ce-caee-46fa-bedf-7950d5806878)
+![2](https://github.com/user-attachments/assets/b9fcac8b-1185-4499-ba8a-45de15af67a3)
+![3](https://github.com/user-attachments/assets/4d87fd55-25dc-49aa-9db2-1ffa3a045664)
+![4](https://github.com/user-attachments/assets/136bc3dd-7858-4242-973c-07f88203cc5b)
+![5](https://github.com/user-attachments/assets/100bccc9-2569-494c-97c7-a6a6fe69512b)
+
  
 
 
