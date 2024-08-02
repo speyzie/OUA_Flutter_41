@@ -161,7 +161,7 @@ Hedeflere ulaşma oranları ve başarı hikayeleri.
  * Kod inceleme sürecinde tespit edilen hatalar düzeltildi.
  * Kod kalitesinin artırılması için gerekli iyileştirmeler yapıldı.
  * Uygulamanın nihai sürümü hazırlandı ve test edildi.
- * KATILIMCILAR: Ceren Çinarlı, Beyza Karakaya
+ * KATILIMCILAR: Ceren Çinarlı, Beyza Karakaya, Asya Güney
 
  **Sprint Retrospective**
 
